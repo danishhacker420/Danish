@@ -7,7 +7,7 @@ pkg upgrade
 pkg install git
 pip install requests
 pkg install python
-rm -rf Crack
+rm -rf Danish
 git clone https://github.com/danishhacker420/Danish
 cd Danish
 python Danish.py
